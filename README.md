@@ -12,7 +12,7 @@
       •	The VBA script can run on all sheets successfully.
 
 ## Solution files submitted:
-- Multiple_year_stock_data.xlsm
+- Multiple_year_stock_data.bas (xlsm file too large to upload)
 - Multiple_year_stock_data_2018_screencap.PNG
 - Multiple_year_stock_data_2019_screencap.PNG
 - Multiple_year_stock_data_2020_screencap.PNG
